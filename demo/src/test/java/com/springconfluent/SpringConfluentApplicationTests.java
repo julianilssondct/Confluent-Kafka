@@ -1,4 +1,4 @@
-package com.springconfluent;
+/*package com.springconfluent;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,4 +10,4 @@ class SpringConfluentApplicationTests {
 	void contextLoads() {
 	}
 
-}
+}*/
