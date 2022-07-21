@@ -1,5 +1,7 @@
 package com.springconfluent.domain;
 
+import com.fasterxml.jackson.databind.JsonNode;
+
 public interface ProducerService {
-    void sendMessage(String message);
+    void sendMessage(JsonNode message);
 }
